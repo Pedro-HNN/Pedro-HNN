@@ -5,7 +5,7 @@
 - 👨‍💻 Programador backend
 - 💾 Analista de sistemas 
 - 🌱 Atualmente... me aprofundando em django e node.js
-- 💬 Me chame em `contact.pedrohnn@gmail.com` para colaborações
+- 💬 Me chame em `contact.pedrohnn@gmail.com` para colaborações e propostas
 - 😄 Curiosidade sobre mim: não sou muito fã de feijoada
 
 ### Tecnologias que domino
