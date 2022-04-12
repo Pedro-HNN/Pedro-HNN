@@ -6,7 +6,6 @@
 - 💾 Analista de sistemas 
 - 🌱 Atualmente... me aprofundando em django e node.js
 - 💬 Me chame em `contact.pedrohnn@gmail.com` para colaborações e propostas
-- 😄 Curiosidade sobre mim: não sou muito fã de feijoada
 
 ### Tecnologias que domino
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
