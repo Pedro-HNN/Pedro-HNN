@@ -2,9 +2,9 @@
 
 ## Me chamo Pedro Henrique. Tudo bom? 
 
-- 👨‍💻 Programador backend
-- 💾 Analista de sistemas 
-- 🌱 Atualmente... me aprofundando em django e node.js
+- 👨‍💻 Programador fullstack com o foco em Backend
+- 💾 Analista de dados
+- 🌱 Atualmente me aprofundando em Analise de Dados e Business Intelligence
 - 💬 Me chame em `contact.pedrohnn@gmail.com` para colaborações e propostas
 
 ### Tecnologias que domino
