@@ -1,4 +1,4 @@
 - Desenvolvedor Backend e de aplicações customizaveis
 - Analista de dados/BI
 - Atualmente me aprofundando em Analise de Dados e Business Intelligence
-- contato: `contact.pedrohnn@gmail.com`
+- contato: `contact.pedrohnn@gmail.com`, `https://www.linkedin.com/in/pedro-backend/`
