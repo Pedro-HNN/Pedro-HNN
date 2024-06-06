@@ -1,4 +1,4 @@
-- Desenvolvedor Backend e de aplicações customizaveis
+- Desenvolvedor Backend com um pouco de Frontend
 - Analista de dados/BI
-- Atualmente me aprofundando em Analise de Dados e Business Intelligence
+- Atualmente trabalhando em desenvolvimento de software voltado à área de análise de dados
 - Email: `contact.pedrohnn@gmail.com`
